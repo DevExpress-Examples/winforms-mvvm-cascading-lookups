@@ -3,20 +3,24 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T223550)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* **[MainForm.cs](./CS/T223550/MainForm.cs)**
+# WinForms MVVM - Cascading Lookup Editors
+
+A lookup editor can filter items in its dropdown based on a value in another lookup. This example utilizes the Model-View-ViewModel design pattern to implement cascading `LookUpEdit` controls. The example binds a child `LookUpEdit` data source to a collection in a view model that returns a list of business objects depending on a selected object in the master lookup.
+
+Read the following KB article for additional information: [MVVM - How to implement cascading LookUpEdits](https://supportcenter.devexpress.com/ticket/details/t223617/mvvm-how-to-implement-cascading-lookupedits).
+
+
+## Files to Review
+
+* [MainForm.cs](./CS/T223550/MainForm.cs)
 * [Customer.cs](./CS/T223550/Models/Customer.cs)
 * [DataSourceHelper.cs](./CS/T223550/Models/DataSourceHelper.cs)
 * [Order.cs](./CS/T223550/Models/Order.cs)
 * [OrdersViewModel.cs](./CS/T223550/ViewModels/OrdersViewModel.cs)
-<!-- default file list end -->
-# MVVM - How to implement cascading LookUpEdits
 
 
-See the <a href="https://www.devexpress.com/Support/Center/p/T223617">MVVM - How to implement cascading LookUpEdits</a> KB article for more details.
+## Documentation
 
-<br/>
-
-
+* [Cascading Lookups](https://docs.devexpress.com/WindowsForms/116018/controls-and-libraries/editors-and-simple-controls/lookup-editors/cascading-lookups)
+* [WinForms MVVM](https://docs.devexpress.com/WindowsForms/113955/build-an-application/winforms-mvvm)
