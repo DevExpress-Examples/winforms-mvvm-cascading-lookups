@@ -26,7 +26,7 @@ Read the following KB article for additional information: [MVVM - How to impleme
 * [Cascading Lookups](https://docs.devexpress.com/WindowsForms/116018/controls-and-libraries/editors-and-simple-controls/lookup-editors/cascading-lookups)
 * [WinForms MVVM](https://docs.devexpress.com/WindowsForms/113955/build-an-application/winforms-mvvm)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-mvvm-cascading-lookups&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-mvvm-cascading-lookups&~~~was_helpful=no)
 
